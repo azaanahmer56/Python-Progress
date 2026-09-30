@@ -1,6 +1,4 @@
-# Python Certification from freecodecamp.org
-
-# 🐍 FreeCodeCamp: Scientific Computing with Python Certification
+# 🐍 Python Certification Progress
 
 Welcome to my repository dedicated to tracking my progress, projects, and conceptual understanding as I work through the **freeCodeCamp Scientific Computing with Python** curriculum. 
 
