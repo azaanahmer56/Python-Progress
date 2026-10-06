@@ -1,0 +1,23 @@
+Email: alice.johnson@company.com
+Position of @: 13
+Username: alice.johnson
+Has @ symbol: True
+Has .com: True
+Original name: '  sARaH dAVis  '
+Cleaned name: 'Sarah Davis'
+Original email: '  SARAH.DAVIS@COMPANY.COM  '
+Cleaned email: 'sarah.davis@company.com'
+Name badge: SARAH DAVIS
+Email: sarah.davis@company.com
+Username: sarah.davis
+Display name: Sarah Davis
+Phone with dashes: 123-456-7890
+Phone without dashes: 1234567890
+Address parts: ['123 Main Street', 'Springfield', 'IL']
+Rejoined: 123 Main Street | Springfield | IL
+Code: EMP-2024-SD
+Starts with EMP: True
+Clean email: sarah.davis@company.com
+Ends with .com: True
+Dots in email: 2
+Dashes in code: 2
