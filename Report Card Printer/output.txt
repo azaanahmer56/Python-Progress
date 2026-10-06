@@ -1,0 +1,5 @@
+Alice <class 'str'>
+True <class 'bool'>
+20 <class 'int'>
+True
+80.5 <class 'float'>
