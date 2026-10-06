@@ -14,7 +14,7 @@ elif distance_mi > 1 and distance_mi <= 6:
     if has_bike == True and not is_raining:
         print(True)
     else:
-        print(False) # False
+        print(False) 
 elif distance_mi > 6:
     if has_car == True or has_ride_share_app == True:
         print(True)
