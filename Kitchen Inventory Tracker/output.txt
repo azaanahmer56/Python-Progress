@@ -1,0 +1,12 @@
+The kitchen has 6 total items:
+- 1 eggs
+- 2 flour
+- 3 sugar
+1 egg(s) used out of 1 available.
+1
+1 egg(s) used out of 1 available.
+Made a fried egg. Yummy!
+The kitchen has 5 total items:
+- 0 eggs
+- 2 flour
+- 3 sugar
